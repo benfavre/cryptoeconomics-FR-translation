@@ -446,6 +446,9 @@ Tendance vers moins de [Propriétaires](#propriétaire). Les propriétaires cont
 #### Cloisonnement
 Tendance vers des [Cloisons](#cloison) permanentes.
 
+#### Scammers
+Ensemble de [Personnes](#personne) utilisant l'agression à la place du [Commerce](#commerce). Opère typiquement en toute impunité au sein de frontières géographiques.
+
 #### Corrélation
 Capacité à [Salir](#salissure) en utilisant l'analyse statistique de [Chaîne](#chaîne).
 
